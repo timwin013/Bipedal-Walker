@@ -1,6 +1,3 @@
-# ReinforcementLearningCW2
-Both jupyter notebook and html versions of each file are available and are identical.
-
 # Master 1 of 4
 Master 1 of 4 contains the results for an agent who behaves randomly in the Pendulum-v1, BipedalWalker-v3, and BipedalWalkerHardcore-v3 which form baselines for us to compare future results. It also contains our DDPG implementation for Pendulum-v1 and BipedalWalker-v3. 
 
