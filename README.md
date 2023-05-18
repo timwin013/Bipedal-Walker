@@ -1,5 +1,5 @@
 # Solving OpenAI's BipedalWalker Using Reinforcement Learning
-## Video: https://youtu.be/5jdRPK0HmrI
+Video: https://youtu.be/5jdRPK0HmrI  
   
 ## Master 1 of 4
 The results for an agent who behaves randomly in the Pendulum-v1, BipedalWalker-v3, and BipedalWalkerHardcore-v3 which form baselines to compare future results. It also contains DDPG implementation for Pendulum-v1 and BipedalWalker-v3. 
